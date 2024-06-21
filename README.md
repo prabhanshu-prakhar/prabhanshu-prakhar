@@ -1,5 +1,5 @@
 
-![Data Visualization](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftreehousetechgroup.com%2Fthe-psychology-behind-data-visualization%2F&psig=AOvVaw0GB4l05SuD3_WcBGzaSmJ5&ust=1719056274336000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDAjeXN7IYDFQAAAAAdAAAAABAE)
+
 
 ## Hey there! 👋
 
